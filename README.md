@@ -47,7 +47,7 @@
             </tr>
             <tr>
                 <td>Team</td>
-                <td><a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Written%20Explanation.pdf">Written Explanationt</a></td>
+                <td><a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Written%20Explanation.pdf">Written Explanation</a></td>
                 <td>AWS tools used to meet the clients needs.</td>
             </tr>
             <tr>
