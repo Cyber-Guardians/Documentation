@@ -40,6 +40,21 @@
                 <td><a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Network%20Chart.png">Network Topology VPN Tunnel</a></td>
                 <td>Physical topology with implemented software</td>
             </tr>
+            <tr>
+                <td>Team</td>
+                <td><a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Team%20Agreement%20PDF.pdf">Team Agreement</a></td>
+                <td>Mutual agreement between teammates to work together.</td>
+            </tr>
+            <tr>
+                <td>Team</td>
+                <td><a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Written%20Explanation.pdf">Written Explanationt</a></td>
+                <td>AWS tools used to meet the clients needs.</td>
+            </tr>
+            <tr>
+                <td>Team</td>
+                <td><a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Written%20Explanation.pdf ">Project Write Up</a></td>
+                <td>Steps taken to accomplish the clients need and build the AWS environment.</td>
+            </tr>
         </table>
     </div>
 </body>
